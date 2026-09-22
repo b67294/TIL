@@ -3,3 +3,9 @@
 Thumbs.db
 .env
 .env.*
+__pycache__/
+*.py[cod]
+
+# 本地维护工具，不属于笔记内容
+scripts/
+更新README.bat
