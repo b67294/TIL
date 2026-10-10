@@ -5,6 +5,10 @@
 灵感来源于 Simon Willison 的 [simonw/til](https://github.com/simonw/til)。把零散的学习与实践留下来，方便未来的自己查找，也分享给碰到相似问题的人。
 
 <!-- TIL-INDEX:START -->
+## 2026-10-10
+
+- [Skill编写与改进](2026-10-10-Skill编写与改进.md)
+
 ## 2026-09-22
 
 - [HTTP GET 参数与FastAPI对应写法](2026-09-22-HTTP%20GET%20参数与FastAPI对应写法.md)
