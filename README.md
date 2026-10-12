@@ -5,6 +5,11 @@
 灵感来源于 Simon Willison 的 [simonw/til](https://github.com/simonw/til)。把零散的学习与实践留下来，方便未来的自己查找，也分享给碰到相似问题的人。
 
 <!-- TIL-INDEX:START -->
+## 2026-10-12
+
+- [数据库事务 与 SessionLocal](2026-10-12-数据库事务%20与%20SessionLocal.md)
+- [本地数据库启动 ORM sqlalchemy](2026-10-12-本地数据库启动%20ORM%20sqlalchemy.md)
+
 ## 2026-10-10
 
 - [Skill编写Prompt](2026-10-10-Skill编写Prompt.md)
