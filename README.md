@@ -5,6 +5,11 @@
 灵感来源于 Simon Willison 的 [simonw/til](https://github.com/simonw/til)。把零散的学习与实践留下来，方便未来的自己查找，也分享给碰到相似问题的人。
 
 <!-- TIL-INDEX:START -->
+## 2026-10-13
+
+- [http请求sdk 同步异步库](2026-10-13-http请求sdk%20同步异步库.md)
+- [LLM解析 http请求页面 （爬虫前置模块）](2026-10-13-LLM解析%20http请求页面%20（爬虫前置模块）.md)
+
 ## 2026-10-12
 
 - [数据库事务 与 SessionLocal](2026-10-12-数据库事务%20与%20SessionLocal.md)
