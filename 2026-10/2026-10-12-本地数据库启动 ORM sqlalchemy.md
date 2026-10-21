@@ -1,10 +1,10 @@
 
 在本地利用Docker - Image 安装Mysql数据库，并通过容器启用。
 
-![](assets/Pasted%20image%2020261012111825.png)
+![](../assets/Pasted%20image%2020261012111825.png)
 
 通过Navicat来创建链接和查看库。
-![](assets/Pasted%20image%2020261012111938.png)
+![](../assets/Pasted%20image%2020261012111938.png)
 注意左侧的并不是“库”，而是链接。
 
 ---
@@ -75,4 +75,4 @@ db.close()
 ```
 
 关于sqlalchemy：
-![](assets/Pasted%20image%2020261012114444.png)
+![](../assets/Pasted%20image%2020261012114444.png)
